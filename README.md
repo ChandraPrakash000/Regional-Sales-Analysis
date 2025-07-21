@@ -29,4 +29,6 @@ Interactive Dashboards: Power BI visuals including bar charts, line graphs, maps
 ├── README.md
 
 # Sample Visuals
+https://github.com/ChandraPrakash000/Regional-Sales-Analysis/blob/main/Heat%20Map.png
 
+https://github.com/ChandraPrakash000/Regional-Sales-Analysis/blob/main/Scatter%20plot.png
