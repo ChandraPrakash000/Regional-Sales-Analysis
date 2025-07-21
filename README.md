@@ -29,4 +29,4 @@ Interactive Dashboards: Power BI visuals including bar charts, line graphs, maps
 ├── README.md
 
 # Sample Visuals
-![Correlation Heat Map of Numerical Features](https://github.com/ChandraPrakash000/Library-Management-System/blob/main/Library%20erd.png)
+![Correlation Heat Map of Numerical Features](https://github.com/ChandraPrakash000/Regional-Sales-Analysis/blob/main/Heat%20Map.png)
